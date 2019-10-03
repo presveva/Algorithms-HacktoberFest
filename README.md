@@ -9,6 +9,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 * `B` [Heap Sort](C++/heap_sort.cpp)
 
 ## Python 3
+* `B` [Binary Search](Python/binary_search.py)
 * `B` [Factorial](Python/factorial.py)
 * `A` [interpolation search](C++/interpolation_search.cpp)
 
